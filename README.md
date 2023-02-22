@@ -1,5 +1,5 @@
 # CS-300-Linked-Lists
-Link list
+Linked list
 Overview
 The focus of these problems will be working with information extracted from a municipal government data feed containing bids submitted for auction of property. All materials for this assignment can be found in the Supporting Materials section below. The data set is provided in two comma-separated files:
 
